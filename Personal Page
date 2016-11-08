@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Ben Ve Yaşantım</title>
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="ahmet.css">
+</head>
+<body background="arkaplan.jpg">
+	<h1 class="ahmet">Ahmet</h1>
+	<p class="paragraf"><img src="ahmetşimdi.jpg" style="text-align: center;" width="300" height="300"><br><b>Benim adım Ahmet ÇÖLKESEN. Lise 1 öğrencisiyim. Yazılım işine giriştim. Bir şeyler yapmaya çalışıyorum. İnşallah sonumuz hayır olur.</b></p>
+	<ul>
+			<h1 class="h1">-Ahmet'in Gittiği Yerler-</h1>
+			<li><b>Trabzon</b></li>
+			<li><b>Erzincan</b></li>
+			<li><b>Ankara</b></li>
+			<li><b>Denizli</b></li>
+	</ul>
+	<ul style="text-align: center;">
+		<h1 class="h2">Ulaşabileceğiniz Yerler</h1>
+		<li style="color: green">Facebook <br><a href="https://www.facebook.com/ahmet.colkesen2"><img src="facebook.png" width="50px" height="50px"></a></li>
+		<li style="color: green">Twitter <br><a href="https://twitter.com/ahmetcol60"><img src="twitter.png" width="50" height="50"></a></li>
+		<li style="color: green">İnstagram <br><a href="https://www.instagram.com/ahmetclksn/"><img src="instagram.jpg" width="50"	height="50"></a></li>
+
+	</ul>
+</body>
+</html>
