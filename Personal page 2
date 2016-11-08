@@ -1,0 +1,31 @@
+.paragraf {
+
+	color: red;
+	font-family: arial;
+	text-align: center;
+
+}
+.h1 {
+
+	color: orange;
+	text-align: left;
+
+
+
+}
+.h2	{
+	color: blue;
+
+
+}
+.facebook {
+	border-radius: 5px;
+
+}
+.ahmet {
+	text-align: center;
+	font-family: Times New Roman;
+	color: red;
+
+
+}
